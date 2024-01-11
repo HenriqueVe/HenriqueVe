@@ -1,11 +1,11 @@
 ## **Henrique Venâncio**
 
-### **Formação Acadêmica:** <img src="./images/b3ce54b986ccc5d12a438373cacd9688.jpg" width="35px" height="35px">
+### **Formação Acadêmica:** <img src="./images/b3ce54b986ccc5d12a438373cacd9688.jpg" width="45px" height="45px">
 
 Curso técnico de informática. - SENAI 2022-2024  
 Ensino médio incompleto. EE. - DESEMBARGADOR 2022-
                 
-### **Cursos Livres:**  <img src="./images/o murro(JPG).jpg" width="35px" height="35px">
+### **Cursos Livres:**  <img src="./images/o murro(JPG).jpg" width="45px" height="45px">
            
 Curso de organização de eventos. - SENAC 2022-2022  
 Curso de inglês. - PREF. SGRA 2020-2020  
@@ -13,7 +13,7 @@ Curso pacote Office(Word, Excel, Power Point). - SENAI 2022-2022
 Curso de programação e robótica. PREF. - SGRA 2021-2021  
 Curso de violão. PREF. - SGRA 2019-2019  
            
-### **Soft Skills/Hard Skills:**  <img src="./images/big-mouth-cat.gif" width="35px" height="35px">
+### **Soft Skills/Hard Skills:**  <img src="./images/big-mouth-cat.gif" width="45px" height="45px">
 Comunicação  
 Foco em resultados  
 Liderança  
@@ -23,7 +23,7 @@ Colaboração e trabalho em equipe
 Capacidade de adaptação  
 Logica de programação
             
-### **Sobre a minha pessoa:**  <img src="./images/20230816_173504.jpg" width="35px" height="35px">
+### **Sobre a minha pessoa:**  <img src="./images/20230816_173504.jpg" width="45px" height="45px">
           
 Como o "read me" mostra eu sou um amante
 de gatos, eu tenho até o primeiro ano do ensino medio e atualmente fazendo o segundo ano do mesmo, eu tenho alguns cursos ma
@@ -40,7 +40,7 @@ meu outro hobbie é programar por diversão, ver videos e animes, meu gosto por 
 então facilmente
 conseguiria escutar um rock, pop, trap, rap, pagode e varios outros estilos de musica.
 
-### **Meus objetivos:**  <img src="./images/091a7c4357014c1c38045b79c0ce327c.jpg" width="35px" height="35px">
+### **Meus objetivos:**  <img src="./images/091a7c4357014c1c38045b79c0ce327c.jpg" width="45px" height="45px">
    Eu ainda não tenho muitos objetivos definidos mas tenho alguns, um
                             deles é o meu sonho de
                             visitar o
