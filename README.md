@@ -3,7 +3,7 @@
 ### **Formação Acadêmica:** <img src="./images/b3ce54b986ccc5d12a438373cacd9688.jpg" width="45px" height="45px">
 
 Curso técnico de informática. - **SENAI 2022-2024**  
-Ensino médio incompleto. - **EE. DESEMBARGADOR 2022-**
+Ensino médio incompleto. - **EE. DESEMBARGADOR 2022-2024**
                 
 ### **Cursos Livres:**  <img src="./images/o murro(JPG).jpg" width="45px" height="45px">
            
