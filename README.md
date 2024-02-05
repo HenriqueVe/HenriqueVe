@@ -1,6 +1,6 @@
 ## **Henrique Venâncio**
 
-### **Experiência Profissional:**
+### **Experiência Profissional:** <img src="./images/c876005a1d7f489f8bd466572c828f0f.jpg" width="45px" height="45px">
 
 Auxiliar Administrativo. - **Câmara Municipal SGRA 2024-**
 
