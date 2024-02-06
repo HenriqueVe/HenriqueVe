@@ -2,7 +2,7 @@
 
 ### **Experiência Profissional:** <img src="./images/c876005a1d7f489f8bd466572c828f0f.jpg" width="45px" height="45px">
 
-Auxiliar Administrativo. - **Câmara Municipal SGRA 2024-**
+Auxiliar Administrativo(Aprendiz Legal). - **Câmara Municipal SGRA 2024-**
 
 ### **Formação Acadêmica:** <img src="./images/b3ce54b986ccc5d12a438373cacd9688.jpg" width="45px" height="45px">
 
