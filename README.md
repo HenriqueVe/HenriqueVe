@@ -19,7 +19,7 @@ Curso de inglês. - **PREF. SGRA 2020-2020**
 ### **O que eu sei usar?:**  <img src="./images/big-mouth-cat.gif" width="45px" height="45px">
 <br>
 <div style="display: inline_block">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Node.js" height="40" width="40" href="https://nodejs.org/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Gamemaker" height="40" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
