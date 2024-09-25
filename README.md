@@ -32,8 +32,9 @@ Curso de inglês. - **PREF. SGRA 2020-2020**
 <br>
 <br>
 <br>
-    
-### **Minhas estatisticas:** <img src="./images/El_gatoo.png" width="45px" height="45px">
+<br>
+<br>
+
 <p align="left">
 </p>
 
