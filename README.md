@@ -8,6 +8,7 @@ Aprendiz Legal(Setor - Comunicação). - **<a href="https://www.camarasaogoncalo
 
 Curso técnico de informática. - **<a href="https://www.fiemg.com.br/senai/">SENAI<a/> 2022-2024**  
 Cursando Ensino médio. - **EE. DESEMBARGADOR 2022-2024**
+Pronomes:Elu,Delu
                 
 ### **Cursos Livres:**  <img src="./images/o murro(JPG).jpg" width="45px" height="45px">
            
