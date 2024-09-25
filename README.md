@@ -32,17 +32,15 @@ Curso de inglês. - **PREF. SGRA 2020-2020**
 <br>
 <br>
 <br>
-<br>
-<BR>
     
 ### **Minhas estatisticas:** <img src="./images/El_gatoo.png" width="45px" height="45px">
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueve&show_icons=true&locale=en&layout=compact" alt="henriqueve" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueve&show_icons=true&locale=en&layout=compact&theme=dark" alt="henriqueve" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueve&show_icons=true&locale=en" alt="henriqueve" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueve&show_icons=true&locale=en&theme=dark" alt="henriqueve" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriqueve&" alt="henriqueve" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriqueve&theme=dark" alt="henriqueve" /></p>
 
             
