@@ -7,11 +7,12 @@ Aprendiz Legal(Setor - Comunicação). - **<a href="https://www.camarasaogoncalo
 ### **Formação Acadêmica:** <img src="./images/b3ce54b986ccc5d12a438373cacd9688.jpg" width="45px" height="45px">
 
 Curso técnico de informática. - **<a href="https://www.fiemg.com.br/senai/">SENAI<a/> 2022-2024**  
-Cursando Ensino médio. - **EE. DESEMBARGADOR 2022-2024**
+Ensino médio completo. - **EE. DESEMBARGADOR 2022-2024**
 
                 
 ### **Cursos Livres:**  <img src="./images/o murro(JPG).jpg" width="45px" height="45px">
-           
+
+Curso Profissionalizante em React e Node.js. - **<a href="https://www.fiemg.com.br/senai/">SENAI<a/> 2024-2024**
 Curso de organização de eventos. - **<a href="https://mg.senac.br/Paginas/default.aspx">SENAC<a/> 2022-2022**  
 Curso pacote Office(Word, Excel, Power Point). - **<a href="https://www.fiemg.com.br/senai/">SENAI<a/> 2022-2022**  
 Curso de programação e robótica. - **PREF. SGRA 2021-2021**  
